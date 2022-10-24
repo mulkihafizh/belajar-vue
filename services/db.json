@@ -1,0 +1,105 @@
+{
+  "user": {
+    "id": 1,
+    "name": "farhan hoodie",
+    "phone": "+62 81234653817",
+    "address": "cleeveland, ohio",
+    "birthday": "23 December 1999",
+    "email": "farhantudungbusiness@gmail.com",
+    "freelance": true
+  },
+  "skills": [
+    {
+      "id": 1,
+      "name": "HTML",
+      "percen": 95
+    },
+    {
+      "id": 2,
+      "name": "CSS",
+      "percen": 85
+    },
+    {
+      "id": 3,
+      "name": "PHP",
+      "percen": 90
+    },
+    {
+      "id": 4,
+      "name": "Javascript",
+      "percen": 95
+    },
+    {
+      "id": 5,
+      "name": "Vue.JS",
+      "percen": 95
+    },
+    {
+      "id": 6,
+      "name": "Laravel",
+      "percen": 85
+    }
+  ],
+  "educations": [
+    {
+      "id": 1,
+      "department": "example",
+      "school": "junior high school",
+      "start_year": 2014,
+      "end_year": 2017,
+      "desc": "Tempor eos dolore amet tempor dolor tempor. Dolore ea magna sit amet dolor eirmod. Eos ipsum est tempor dolor. Clita lorem kasd sed ea lorem diam ea lorem eirmod duo sit ipsum stet lorem diam"
+    },
+    {
+      "id": 2,
+      "department": "department of practical dance",
+      "school": "hanlim multi art school",
+      "start_year": 2017,
+      "end_year": 2020,
+      "desc": "Tempor eos dolore amet tempor dolor tempor. Dolore ea magna sit amet dolor eirmod. Eos ipsum est tempor dolor. Clita lorem kasd sed ea lorem diam ea lorem eirmod duo sit ipsum stet lorem diam"
+    }
+  ],
+  "experiences": [
+    {
+      "id": 1,
+      "position": "web development",
+      "company": "company",
+      "start_date": "22 June 2021",
+      "end_date": "22 December 2021",
+      "desc": "Tempor eos dolore amet tempor dolor tempor. Dolore ea magna sit amet dolor eirmod. Eos ipsum est tempor dolor. Clita lorem kasd sed ea lorem diam ea lorem eirmod duo sit ipsum stet lorem diam"
+    },
+    {
+      "id": 2,
+      "position": "freelancer",
+      "company": "company",
+      "start_date": "11 January 2022",
+      "end_date": null,
+      "desc": "Tempor eos dolore amet tempor dolor tempor. Dolore ea magna sit amet dolor eirmod. Eos ipsum est tempor dolor. Clita lorem kasd sed ea lorem diam ea lorem eirmod duo sit ipsum stet lorem diam"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "name": "web design",
+      "desc": "Justo sit justo eos amet tempor amet clita amet ipsum eos elitr. Amet lorem lorem lorem est amet labore eirmod erat clita"
+    },
+    {
+      "id": 2,
+      "name": "web development",
+      "desc": "Justo sit justo eos amet tempor amet clita amet ipsum eos elitr. Amet lorem lorem"
+    },
+    {
+      "id": 3,
+      "name": "content creating",
+      "desc": "Justo sit justo eos amet tempor amet clita amet ipsum eos elitr. Amet lorem lorem lorem est amet labore eirmod erat clita"
+    }
+  ],
+  "messages": [
+    {
+      "name": "jaki123",
+      "email": "ukiyo142@gmail.com",
+      "subject": "siap",
+      "message": "hal",
+      "id": 1
+    }
+  ]
+}
